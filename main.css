@@ -1,0 +1,273 @@
+/*****BASE STYLES*****/
+
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #2b2b2b;
+}
+
+.side-padding {
+    padding-left: 75px;
+    padding-right: 75px;
+}
+
+.top-and-bottom-padding {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+/* GRID */
+.full-width {
+    width: 1200px;
+    margin: 0 auto;
+    clear: auto;
+}
+
+.half-width {
+    width: 600px;
+    margin: 0 auto;
+    float: left;
+    overflow: auto;
+}
+
+.third-width {
+    width: 400px;
+    margin: 0 auto;
+    float: left;
+    overflow: auto;
+}
+
+/*HEADER*/
+.header-section {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+#logo {
+    float: left;
+    padding-top: 30px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+#dorothy-delong {
+    float: left;
+    font-size: 32px;
+}
+
+nav {
+    padding-left: 50px;
+    padding-top: 10px;
+    float: right;
+}
+
+#about, #gallery, #contact {
+    width: auto;
+    float: left;
+    overflow: auto;
+    padding-right: 10px;
+    font-size: 32px;
+    color: #EE4DB3;
+}
+
+#header-quote {
+    width: 1200px;
+    text-align: center;
+    font-size: 37px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    clear: both;
+    border-bottom:5px solid #959595;
+    padding-top: 0px;
+    padding-bottom: 30px;
+    overflow: auto;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 450px;
+    padding-top: 175px;
+    padding-bottom: 50px;
+    float: left;
+  }
+
+/*ABOUT*/
+
+.about-section {
+    width: 1200px;
+    height: 390px;
+    clear: auto;
+    border-bottom:5px solid #959595;
+    margin: 0 auto;
+}
+
+h3 {
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 75px;
+}
+
+.about-text {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 50px;
+    padding-right: 75px;
+    width: 600px;
+    float: left;
+    clear: both;
+}
+
+#about-paragraph {
+    font-size: 32px;
+    padding-bottom: 0px;
+    padding-right: 20px;
+}
+
+#pink {
+    font-size: 32px;
+    color: #EE4DB3;
+}
+
+.about-image {
+    float: left;
+    padding-top: 10px;
+}
+
+/*GALLERY*/
+#gallery-nav-link {
+    margin-top: 50px;
+}
+
+.image-description {
+    text-align: right;
+    font-size: 18px;
+    padding-right: 10px;
+}
+
+.famous-feminist-quote-section {
+    width: 1200px;
+    border-bottom:5px solid #959595;
+    margin-bottom: 50px;
+}
+
+.famous-feminist-quote-text {
+    text-align: left;
+    font-size: 74px;
+    overflow: auto;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.feminist-name {
+    font-size: 32px;
+    text-align: right;
+    padding-right: 75px;
+}
+
+/*BIOGRAPHY*/
+#bio-nav-link {}
+
+#bio-header {
+    color: #EE4DB3;
+    margin: 0 auto;
+    clear: both;
+    overflow: auto;
+    padding-left: 50px;
+}
+
+.bio-section {
+    width: 1200px;
+    clear: auto;
+    border-bottom:5px solid #959595;
+    margin: 0 auto;
+    overflow: auto;
+}
+
+#bio-text {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 50px;
+    padding-right: 75px;
+    clear: both;
+    font-size: 24px;
+    text-indent: 25px;
+}
+
+#pink {
+    font-size: 32px;
+    color: #EE4DB3;
+}
+
+/*FOOTER*/
+footer {
+    /*background-image: url(http://i.imgur.com/iqOtL.png);*/
+    width: 1200px;
+    margin: 0 auto;
+    clear: both;
+}
+
+.contact-details {
+    width: 1200px;
+    overflow: auto;
+    clear: both;
+}
+
+.half-footer {
+    width: 597px;
+    margin: 0 auto; 
+    float: left;
+    height: 300px;
+}
+
+#center-border {
+    border-left: 3px solid #959595;
+}
+
+#contact-info-header {
+    width: 1200px;
+    text-align: center;
+    color: #EE4DB3;
+    margin: 0 auto;
+    clear: both;
+    overflow: auto;
+}
+
+#contact-text {
+    font-size: 32px;
+    color: #2b2b2b;
+}
+
+.icons-order {
+    width: 1200px;
+    margin: 0 auto;
+    clear: both;
+    padding-left: 410px;
+}
+
+#icons {
+    float: left;
+    margin: 20px;
+    overflow: auto;
+}
+
+#to-the-top {
+    text-align: center;
+    font-size: 18px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    clear: both;
+}
+
+#copyright {
+    background: rgba(238, 77, 179, 0.3);
+    width: 1200px;
+    margin: 0 auto;
+    font-size: 18px;
+    text-align: center;
+    clear: both;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
