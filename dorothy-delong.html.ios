@@ -4,8 +4,8 @@
 <!--STYLE SHEETS-->
    <head>
       <title>Dorothy Delong</title>
-      <link rel="shortcut icon" type="image/x-icon" href="C:\Users\superpawn\Documents\SKILLCRUSH\Dorothy Delong\dorothy-assets/logo.png" />
-      <link rel="stylesheet" href="C:\Users\superpawn\Documents\SKILLCRUSH\101-jubilee-austen\css/main.css">
+      <link rel="shortcut icon" type="image/x-icon" href="/Volumes/MIDNITE/SKILLCRUSH/Dorothy Delong/Dorothy Website/dorothy-assets" />
+      <link rel="stylesheet" href="/Volumes/MIDNITE/SKILLCRUSH/Dorothy Delong/Dorothy Website">
       <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700' rel='stylesheet' type='text/css'> 
       <style>A {text-decoration: none;}</style>
       <style> </style>
@@ -16,7 +16,7 @@
       <header id="header-image">
         <section class="header-section">
           <div class="half-width">
-            <img src="C:\Users\superpawn\Documents\SKILLCRUSH\Dorothy Delong\dorothy-assets/logo.png" width=36px height=36px alt="Dorothy's Logo" id="logo"/>
+            <img src="/Volumes/MIDNITE/SKILLCRUSH/Dorothy Delong/Dorothy Website/dorothy-assets" width=36px height=36px alt="Dorothy's Logo" id="logo"/>
             <h1 id="dorothy-delong"><i>Dorothy Delong</i></h1>
           </div>
 
